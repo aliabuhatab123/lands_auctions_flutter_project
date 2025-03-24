@@ -23,9 +23,9 @@ class _OTPVerificationPageState extends State<OTPVerificationPage> {
 
   // Initialize Twilio
   final TwilioFlutter twilioFlutter = TwilioFlutter(
-    accountSid: 'AC06f0bddfb47655f7546691e6470aecfe',
-    authToken: 'e8dd0a829bd0f4b1a6acf4ebd1b24a45',
-    twilioNumber: '+970595148311',
+    accountSid: 'A2323232323e',
+    authToken: '323232AAdg3232345',
+    twilioNumber: '+975435353499',
   );
 
   @override
